@@ -1,7 +1,7 @@
 # Math-3020
-Monte Carlo Class Project
-Project Overview
-This project simulates the spread and removal of a computer virus within a network of 20 computers. The simulation utilizes the Monte Carlo method to estimate:
+
+This project simulates the spread and removal of a computer virus within a network of computers. 
+The simulation utilizes the Monte Carlo method to estimate:
 
 Infection time: The average time it takes for a virus to infect a network.
 Probability of infection: The likelihood that a computer will be infected within a given time frame.
