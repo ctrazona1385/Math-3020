@@ -1,6 +1,5 @@
 # Math-3020
 Monte Carlo Class Project
-Network Virus Spread and Removal Simulation
 Project Overview
 This project simulates the spread and removal of a computer virus within a network of 20 computers. The simulation utilizes the Monte Carlo method to estimate:
 
