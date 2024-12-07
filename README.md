@@ -1,4 +1,4 @@
-# Math-3020
+# Math-3020 Computer Project
 
 This project simulates the spread and removal of a computer virus within a network of computers. 
 It utilizes the Monte Carlo method to estimate:
